@@ -1,0 +1,18 @@
+table{
+    border: 2;
+    border-style: solid;
+    border-color: red;
+    width: 100%;
+    text-align: center;
+}
+tr{
+    background-color: cyan;
+}
+.col{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    color: red;
+}
